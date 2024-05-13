@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "二维码生成",
+  "usingComponents": {
+    "uqrcode": "/uni_modules/Sansnn-uQRCode/components/uqrcode/uqrcode"
+  }
+}

@@ -1,0 +1,42 @@
+{
+	"description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+	"projectname": "luckylucky",
+	"setting": {
+		"compileHotReLoad": true
+	},
+	"condition": {
+		"miniprogram": {
+			"list": [
+				{
+					"name": "日期推算",
+					"pathName": "pages/countDate/CountDate",
+					"query": "",
+					"launchMode": "default",
+					"scene": null
+				},
+				{
+					"name": "吉日",
+					"pathName": "pages/luckyList/LuckyList",
+					"query": "",
+					"launchMode": "default",
+					"scene": null
+				},
+				{
+					"name": "运势",
+					"pathName": "pages/almanac/almanac",
+					"query": "",
+					"launchMode": "default",
+					"scene": null
+				},
+				{
+					"name": "节假日",
+					"pathName": "pages/holidays/holidays",
+					"query": "",
+					"launchMode": "default",
+					"scene": null
+				}
+			]
+		}
+	},
+	"libVersion": "3.3.0"
+}

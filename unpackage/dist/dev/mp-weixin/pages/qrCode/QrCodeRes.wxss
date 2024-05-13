@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-4cbc6e6c {
+  height: calc(100% - 40rpx);
+  padding: 20rpx;
+  background-color: #fff;
+}
+.qrcode-wrap.data-v-4cbc6e6c {
+  margin: 100rpx 0;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

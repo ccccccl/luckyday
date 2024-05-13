@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-164dca26 {
+  height: calc(100% - 40rpx);
+  padding: 20rpx;
+  background-color: #fff;
+  fons-size: 22rpx;
+}
+.container.data-v-164dca26 .uni-easyinput__content,
+.container.data-v-164dca26 .uni-easyinput__content-textarea {
+  height: 100%;
+}
+.container.data-v-164dca26 .uni-easyinput__content {
+  padding: 20rpx;
+}
+

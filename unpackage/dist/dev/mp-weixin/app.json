@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/holidays/holidays",
+    "pages/almanac/almanac",
+    "pages/hoursList/HoursList",
+    "pages/luckyList/LuckyList",
+    "pages/countDays/CountDays",
+    "pages/countDate/CountDate",
+    "pages/qrCode/QrCode",
+    "pages/qrCode/QrCodeRes"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

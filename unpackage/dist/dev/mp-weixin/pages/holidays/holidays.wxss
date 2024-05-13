@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.title.data-v-25adf4e6 {
+  display: flex;
+  align-items: center;
+  padding: 20rpx;
+}
+.title .iconfont.data-v-25adf4e6 {
+  margin-right: 20rpx;
+  font-size: 30rpx;
+  color: #007AFF;
+}
+.content.data-v-25adf4e6 {
+  padding-left: 40rpx;
+}
+
